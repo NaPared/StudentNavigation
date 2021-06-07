@@ -1,1 +1,1 @@
-# StudentNavigation
+Students and parents of a local school had an issue with accessing educational websites. The way to get to these webpages took too long and they were not easily accessible. A staff member reached out to me and addressed their concerns. I created a localized webpage for the students, with a live twitter feed from the school to keep the parents informed of what was happening at the school. It took me about a day to complete it.
